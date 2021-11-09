@@ -165,5 +165,5 @@ if VenturePlan ~= nil and VenturePlan.overrideAA ~= nil then
         VenturePlan.overrideAA[v] = nil
     end
 else
-    message("You are running an undoctored version of VenturePlan. Instructions on how to make this addon work are at https://github.com/hythloday/VenturePlanSoDMissions")
+    message("You are running an undoctored version of VenturePlan. Instructions on how to make this addon work are at https://github.com/Divergentcurl/VenturePlanSoDMissions/tree/cumulative-fixes")
 end
