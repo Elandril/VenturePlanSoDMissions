@@ -5,6 +5,6 @@
 ## Author: hythloday
 ## Dependencies: VenturePlan
 ## License: GPLv3
-## X-Website: https://github.com/Divergentcurl/VenturePlanSoDMissions/
+## X-Website: https://github.com/Divergentcurl/VenturePlanSoDMissions/tree/cumulative-fixes
 
 extra-vs-spells.lua
