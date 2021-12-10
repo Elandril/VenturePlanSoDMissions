@@ -1,7 +1,7 @@
 ## Interface: 90105
-## Title: Venture Plan: |cFFFF8000Sanctum of Domination|r |cFFA335EEExtra Missions|r
+## Title: Venture Plan: |cFFFF8000SoD|r |cFFA335EEExtra Missions|r
 ## Version: 0.07
-## Notes: Adds 9.1.5 table missions to Venture Plan.
+## Notes: Adds |cFFFF8000Sanctum of Domination|r table missions to Venture Plan.
 ## Author: hythloday, Divergentcurl, Elandril & others
 ## Dependencies: VenturePlan
 ## License: GPLv3
