@@ -1,10 +1,10 @@
-## Interface: 90100
-## Title: Extra Missions for Venture Plan
+## Interface: 90105
+## Title: Venture Plan: |cFFFF8000Sanctum of Domination|r |cFFA335EEExtra Missions|r
 ## Version: 0.07
-## Notes: Adds 9.1 table missions to Venture Plan.
-## Author: hythloday
+## Notes: Adds 9.1.5 table missions to Venture Plan.
+## Author: hythloday, Divergentcurl, Elandril & others
 ## Dependencies: VenturePlan
 ## License: GPLv3
-## X-Website: https://github.com/hythloday/extra-missions-venture-plan
+## X-Website: https://github.com/Elandril/VenturePlanSoDMissions
 
 extra-vs-spells.lua
